@@ -1,0 +1,6 @@
+Time         Event                      User
+8:00 A.M.    Back up database.          Mikel
+Noon         Back up transaction log.   Fulanito
+4:00 P.M.    Back up transaction log.   Fulanito
+6:00 P.M.    Back up database.          Mikel
+8:00 P.M.    Back up transaction log.   Mikel
